@@ -3,3 +3,4 @@ dash
 folium
 gpd
 geopandas
+gunicorn
